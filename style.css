@@ -42,7 +42,7 @@ body{
     text-decoration:none;
 }
 
-.menu ul li a:hover{
+.menu ul li a:hover {
     background-color:#4b88bb;
     display:block;
 }
@@ -53,16 +53,15 @@ body{
     height:420px; 
     padding:0.1px; 
     background:#fff;
-    color: #333;
+    color:#333;
 }
 
 .border{
-    border:2px 
-    solid #4887b9; 
-    margin-top: 1pc; 
-    padding-bottom: 1pc; 
-    padding-left: 2pc; 
-    padding-right: 2pc;
+    border:2px solid #4887b9; 
+    margin-top:1pc; 
+    padding-bottom:1pc; 
+    padding-left:2pc; 
+    padding-right:2pc;
 }
 
 .kiri{
@@ -81,18 +80,18 @@ body{
     height:420px;
 }
 
-. undecor{
-text-decoration: none;
+.undecor{
+    text-decoration:none;
 }
 
-. footer{
-     width:90%; 
-     margin:auto; 
-     height:40px; 
-     line-height:40px; 
-     background:#417a8; 
-     color:#fff; 
-     margin-bottom: 1pc;
+.footer{
+    width:90%; 
+    margin:auto; 
+    height:40px; 
+    line-height:40px; 
+    background:#417aa8; 
+    color:#fff; 
+    margin-bottom: 1pc;
 }
 
 
